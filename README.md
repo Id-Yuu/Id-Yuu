@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuu</h1>
-<h3 align="center">I'm Junior frontend from Indonesia</h3>
+<h3 align="center">I'm trying to be a junior frontend, and I'm from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=id-yuu&label=Profile%20views&color=0e75b6&style=flat" alt="id-yuu" /> </p>
 
