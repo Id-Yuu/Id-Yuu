@@ -14,7 +14,6 @@
 <p><a href="https://ko-fi.com/idyuu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="idyuu" /></a></p>
 <br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=id-yuu&show_icons=true&locale=en&layout=compact" alt="id-yuu" /></p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=id-yuu&show_icons=false&locale=en" alt="id-yuu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=id-yuu&show_icons=true&locale=en&layout=compact" alt="id-yuu" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=id-yuu&show_icons=false&locale=en" alt="id-yuu" /></p>
 
