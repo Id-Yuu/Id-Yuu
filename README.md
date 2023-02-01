@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=id-yuu&label=Profile%20views&color=0e75b6&style=flat" alt="id-yuu" /> </p>
 
-- ⚡ Fun fact **I Can't Speak English Language But Still Learn**
+- ⚡ Fun fact **I Can't Speak English But Still Learn**
 
 
 <h3 align="left">Languages and Tools:</h3>
