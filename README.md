@@ -1,6 +1,7 @@
 # Hi 👋, I'm Yuu 
 ### I'm trying to be a junior frontend, and I'm from Indonesia
-- ⚡ Fun fact **I Can't Speak English But Still Learn** ### Languages and Tools:
+- ⚡ Fun fact **I Can't Speak English But Still Learn** 
+### Languages and Tools:
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
