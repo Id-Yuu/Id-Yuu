@@ -1,7 +1,15 @@
 Hi, My name is Ayyub Muhammad. 
 I'm trying to be a junior frontend, and I'm from Indonesia.
 ```
-Interest = ["Reactjs", "Js", "CSS/Scss", "TailwindCSS", "DaisyUI", "Flowbite", "HTML5"];
+Interest = [
+  "Reactjs", 
+  "Js", 
+  "CSS/Scss", 
+  "TailwindCSS", 
+  "DaisyUI", 
+  "Flowbite", 
+  "HTML5"
+];
 ```
 
 ### Support :
