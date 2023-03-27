@@ -1,5 +1,5 @@
-### Hi 👋, I'm Yuu 
-I'm trying to be a junior frontend, and I'm from Indonesia
+Hi, My name is Ayyub Muhammad. 
+I'm trying to be a junior frontend, and I'm from Indonesia.
 ```
 Interest = ["Reactjs", "Js", "CSS/Scss", "TailwindCSS", "DaisyUI", "Flowbite", "HTML5"];
 ```
