@@ -1,6 +1,6 @@
 <dl>
   <dt>Hi, My name is Ayyub Muhammad.</dt>
-  <dd>I'm trying to be a junior frontend, and I'm from Indonesia.</dd>
+  <dd>I'm trying to be a junior frontend</dd>
 </dl>
 
 ---
