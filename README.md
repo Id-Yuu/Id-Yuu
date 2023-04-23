@@ -12,12 +12,12 @@
   <dt># Utils :</dt>
   <dd>-> Styled Components, TailwindCSS, SASS, DaisyUI, Flowbite, ChakraUI,</dd>
   
-  <dt># Tools :</dt>
+  <dt>:computer: Tools :</dt>
   <dd>-> Npmjs, VScode, firebase, gh-pages, figma and, <em>My mood for learning</em>.</dd>
 </dl>
 
 
-#### Support :
+#### :coffee: Support :
 
 <a href="https://ko-fi.com/idyuu">
   <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
