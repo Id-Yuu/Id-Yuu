@@ -6,10 +6,10 @@
 ---
 
 <dl>
-  <dt># Tech Stack :</dt>
+  <dt>:briefcase: Tech Stack :</dt>
   <dd>-> React, JavaScript, HTML/HTML5, CSS3, Vanilla Js,</dd>
 
-  <dt># Utils :</dt>
+  <dt>:card_index_dividers: Utils :</dt>
   <dd>-> Styled Components, TailwindCSS, SASS, DaisyUI, Flowbite, ChakraUI,</dd>
   
   <dt>:computer: Tools :</dt>
