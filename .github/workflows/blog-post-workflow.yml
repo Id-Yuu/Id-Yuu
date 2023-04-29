@@ -16,4 +16,4 @@ jobs:
       - name: Pull in blogger posts
         uses: Id-Yuu/blog-post-workflow@v1
         with:
-          feed_list: " "
+          feed_list: "https://arlethdesign.blogspot.com/feeds/posts/default"
