@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="paypal"/>
 </a>
 
-#### :closed_book: Blog posts
+#### :closed_book: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [LWDesign Blogger Template](https://arlethdesign.blogspot.com/2020/09/lwdesign-blogger-template.html)
 - [[Re-Post] Bt-Samehada Clone 2020 Template Blogger](https://arlethdesign.blogspot.com/2020/02/template-blogger-samehada-clone-2020.html)
