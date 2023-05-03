@@ -38,9 +38,9 @@
 
 <details>
 
-<summary>My GitHub Stats</summary>
+<summary>Top Langs</summary>
 
-![Id-Yuu GitHub stats](https://github-readme-stats.vercel.app/api?username=Id-Yuu&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Id-Yuu&layout=compact&hide_border&theme=transparent)]
 
 </details>
 
