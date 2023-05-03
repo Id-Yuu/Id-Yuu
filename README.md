@@ -36,4 +36,13 @@
 - [Anime Info &amp; download box](https://arlethdesign.blogspot.com/2020/06/anime-info-download-box.html)
 <!-- BLOG-POST-LIST:END -->
 
+<details>
+
+<summary>My GitHub Stats</summary>
+
+![Id-Yuu GitHub stats](https://github-readme-stats.vercel.app/api?username=Id-Yuu&show_icons=true&theme=transparent)
+
+</details>
+
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Id-Yuu&fontSize=20&fontAlignY=60&fontAlign=90)
