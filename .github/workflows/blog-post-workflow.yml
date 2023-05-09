@@ -16,4 +16,4 @@ jobs:
       - name: Pull in blogger posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://arlethdesign.blogspot.com/feeds/posts/default"
+          feed_list: "https://arlethdesign.blogspot.com/feeds/posts/default/-/Template%20Blogger"
