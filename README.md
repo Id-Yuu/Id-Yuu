@@ -45,7 +45,7 @@
 
 <details>
 
-<summary>Top Langs</summary>
+<summary>:computer: Top Langs</summary>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Id-Yuu&layout=compact&hide_border&theme=transparent)
 
