@@ -43,12 +43,5 @@
 </details>
 
 
-<details>
-<summary>:zap: Top Langs</summary>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Id-Yuu&layout=compact&hide_border&theme=transparent)
-
-</details>
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Id-Yuu&fontSize=20&fontAlignY=60&fontAlign=90)
