@@ -33,11 +33,11 @@
 <summary>:closed_book: Latest Blog posts</summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [LWDesign Blogger Template](https://arlethdesign.blogspot.com/2020/09/lwdesign-blogger-template.html)
-- [[Re-Post] Bt-Samehada Clone 2020 Template Blogger](https://arlethdesign.blogspot.com/2020/02/template-blogger-samehada-clone-2020.html)
-- [[Re-Post] Op_lovers-clon Blogger Template [v3.1]](https://arlethdesign.blogspot.com/2017/09/oploverz-clon-blogger-template-v2.html)
-- [[Re-Post] Tumpukan Template Blogger](https://arlethdesign.blogspot.com/2017/09/onebatch-template-blogger.html)
-- [[Re-Post] Kurogaje Template Blogger](https://arlethdesign.blogspot.com/2017/09/kurogaze-template-blogger.html)
+- [Ongoing List Anime Auto Index [Responsive Update]](https://arlethdesign.blogspot.com/2017/10/ongoing-list-anime-auto-index.html)
+- [Membuat Read Mode &lpar;Screen shader&rpar;](https://arlethdesign.blogspot.com/2020/06/membuat-read-mode-screen-shader.html)
+- [Anime Info &amp; download box](https://arlethdesign.blogspot.com/2020/06/anime-info-download-box.html)
+- [Membuat Dark Mode Pada Blogger](https://arlethdesign.blogspot.com/2020/03/membuat-dark-mode-pada-blogger.html)
+- [Popular Post Samehada untuk Blogger](https://arlethdesign.blogspot.com/2020/02/popular-post-samehada-untuk-blogger.html)
 <!-- BLOG-POST-LIST:END -->
   
 </details>
