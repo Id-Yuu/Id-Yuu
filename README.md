@@ -33,11 +33,11 @@
 <summary>:closed_book: Latest Blog posts</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Audit pesan yang ada di inspect element pada console](https://arlethdesign.blogspot.com/2023/07/web-console-log-issue.html)
 - [Ongoing List Anime Auto Index [Responsive Update]](https://arlethdesign.blogspot.com/2017/10/ongoing-list-anime-auto-index.html)
 - [Membuat Read Mode &lpar;Screen shader&rpar;](https://arlethdesign.blogspot.com/2020/06/membuat-read-mode-screen-shader.html)
 - [Anime Info &amp; download box](https://arlethdesign.blogspot.com/2020/06/anime-info-download-box.html)
 - [Membuat Dark Mode Pada Blogger](https://arlethdesign.blogspot.com/2020/03/membuat-dark-mode-pada-blogger.html)
-- [Popular Post Samehada untuk Blogger](https://arlethdesign.blogspot.com/2020/02/popular-post-samehada-untuk-blogger.html)
 <!-- BLOG-POST-LIST:END -->
   
 </details>
