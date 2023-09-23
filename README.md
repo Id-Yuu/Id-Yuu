@@ -7,10 +7,10 @@
 
 <dl>
   <dt>:briefcase: Tech Stack :</dt>
-  <dd>-> React, JavaScript, HTML/HTML5, CSS3, Vanilla Js,</dd>
+  <dd>-> React, JavaScript, HTML/HTML5, CSS3, Vanilla Js, PHP</dd>
 
   <dt>:card_index_dividers: Utils :</dt>
-  <dd>-> Styled Components, TailwindCSS, SASS, DaisyUI, Flowbite, ChakraUI,</dd>
+  <dd>-> Styled Components, TailwindCSS, SASS, DaisyUI, Flowbite, ChakraUI, Bootstrap</dd>
   
   <dt>:computer: Tools :</dt>
   <dd>-> Npmjs, VScode, firebase, gh-pages, figma and, <em>My mood for learning</em>.</dd>
