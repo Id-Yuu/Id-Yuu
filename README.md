@@ -1,6 +1,6 @@
 <dl>
   <dt>Hi, Im Yuu from Indonesia.</dt>
-  <dd>I'm trying to be a junior frontend</dd>
+  <dd>I'm Junior Web Developer & now trying to be a junior frontend</dd>
 </dl>
 
 ---
