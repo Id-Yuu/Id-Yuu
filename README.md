@@ -27,6 +27,11 @@
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="paypal"/>
 </a>
 
+<a href="https://saweria.co/yuu98">
+  <img src="https://img.shields.io/badge/-SAWERIA-faae2b?style=for-the-badge" alt="SAWERIA"/>
+</a>
+
+
 ---
 
 <details>
