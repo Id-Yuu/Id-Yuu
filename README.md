@@ -1,5 +1,5 @@
 <dl>
-  <dt>Hi, Im Yuu from Indonesia.</dt>
+  <dt>Hi, Im Ayyub Muhammad <sub>a.k.a</sub> Yuu from Indonesia.</dt>
   <dd>I'm Junior Web Developer & now trying to be a junior frontend</dd>
 </dl>
 
