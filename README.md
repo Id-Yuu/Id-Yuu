@@ -1,3 +1,7 @@
+<img src="https://avatars.githubusercontent.com/u/122996864?v=4" width="200" height="200" align="right" />
+
+<div align="left">
+
 <dl>
   <dt>Hi, Im Ayyub Muhammad <sub>a.k.a</sub> Yuu from Indonesia.</dt>
   <dd>I'm Junior Web Developer & now trying to be a junior frontend</dd>
@@ -30,6 +34,8 @@
 <a href="https://saweria.co/yuu98">
   <img src="https://img.shields.io/badge/-SAWERIA-faae2b?style=for-the-badge" alt="SAWERIA"/>
 </a>
+
+</div>
 
 
 ---
