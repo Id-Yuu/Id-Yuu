@@ -18,21 +18,6 @@
 </dl>
 
 
-:coffee: **Support :**
-
-<a href="https://ko-fi.com/idyuu">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-</a>
-
-<a href="https://www.paypal.com/paypalme/arleth98">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="paypal"/>
-</a>
-
-<a href="https://saweria.co/yuu98">
-  <img src="https://img.shields.io/badge/-SAWERIA-faae2b?style=for-the-badge" alt="SAWERIA"/>
-</a>
-
-
 ---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Id-Yuu&fontSize=20&fontAlignY=60&fontAlign=90)
