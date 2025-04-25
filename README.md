@@ -14,7 +14,7 @@
   <dd>-> Styled Components, TailwindCSS, SASS, DaisyUI, Flowbite, ChakraUI, Bootstrap</dd>
   
   <dt>Tools :</dt>
-  <dd>-> Npmjs, VScode, firebase, gh-pages, figma and, <em>My mood for learning</em>.</dd>
+  <dd>-> Bun, VScode, firebase, gh-pages, figma and, <em>My mood for learning</em>.</dd>
 </dl>
 
 
