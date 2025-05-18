@@ -49,3 +49,10 @@
   — <strong>Fuuka Akitsuki</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
+<!-- QUOTE START -->
+<div align="left">
+  📜 <strong>Quote of the Day</strong><br>
+  <em>"Bagiku setiap hari adalah perayaan. Perayaan untuk dunia ini dan dirimu."</em><br>
+  — <strong>Mika Nitta</strong>, <em>Hinamatsuri</em>
+</div>
+<!-- QUOTE END -->
