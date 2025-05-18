@@ -41,6 +41,7 @@ jobs:
           echo "  — <strong>$CHAR</strong>, <em>$ANIME</em>" >> new_readme.md
           echo "</div>" >> new_readme.md
           echo "<!-- QUOTE END -->" >> new_readme.md
+          echo "![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Id-Yuu&fontSize=20&fontAlignY=60&fontAlign=90)" >> new_readme.md
 
           # Append the footer
           awk '/<!-- FOOTER START -->/ {found=1; print} found' README.md >> new_readme.md
