@@ -42,3 +42,10 @@
   — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
+<!-- QUOTE START -->
+<div align="left">
+  📜 <strong>Quote of the Day</strong><br>
+  <em>"Kau selalu berusaha yang terbaik. Sama seperti saat kau menolongku dari perekrutan oleh tim lari, atau ketika aku bingung dan kau khawatir kepada diriku. Kupikir itulah yang membuatmu benar-benar keren."</em><br>
+  — <strong>Fuuka Akitsuki</strong>, <em>Fuuka</em>
+</div>
+<!-- QUOTE END -->
