@@ -141,3 +141,10 @@ Aku mencintai Ryougi! Bahkan jika aku adalah tiruan, tapi hati ini nyata."</em><
   — <strong></strong>, <em></em>
 </div>
 <!-- QUOTE END -->
+<!-- QUOTE START -->
+<div align="left">
+  📜 <strong>Quote of the Day</strong><br>
+  <em>"Makna kehidupan adalah mengisi apa yang kurang dari dirimu."</em><br>
+  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
+</div>
+<!-- QUOTE END -->
