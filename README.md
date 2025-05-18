@@ -77,3 +77,10 @@
   — <strong>Uzuki Shimamura</strong>, <em>The iDOLM@STER Cinderella Girls</em>
 </div>
 <!-- QUOTE END -->
+<!-- QUOTE START -->
+<div align="left">
+  📜 <strong>Quote of the Day</strong><br>
+  <em>"Pada dasarnya, orang yang kuat adalah orang yang berusaha melindungi sesuatu."</em><br>
+  — <strong>Shichika Yasuri</strong>, <em>Katanagatari</em>
+</div>
+<!-- QUOTE END -->
