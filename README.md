@@ -134,3 +134,10 @@ Aku mencintai Ryougi! Bahkan jika aku adalah tiruan, tapi hati ini nyata."</em><
   — <strong>Ikkei Ukai</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
+<!-- QUOTE START -->
+<div align="left">
+  📜 <strong>Quote of the Day</strong><br>
+  <em>""</em><br>
+  — <strong></strong>, <em></em>
+</div>
+<!-- QUOTE END -->
