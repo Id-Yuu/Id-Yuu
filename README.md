@@ -162,3 +162,10 @@ Aku mencintai Ryougi! Bahkan jika aku adalah tiruan, tapi hati ini nyata."</em><
   — <strong>Nagisa Shiota</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
+<!-- QUOTE START -->
+<div align="left">
+  📜 <strong>Quote of the Day</strong><br>
+  <em>"Aku (orang yang) lemah, bodoh, punya tatapan mata yang jelek dan tak bisa membaca situasi. Tapi aku tetap menjalani hidupku tanpa mempedulikan penilaian orang terhadapku. Selama kita bisa saling bersandar satu sama lain dan terus melangkah maju, itu saja sudah cukup. Saling bergantung satu sama lain sambil tertawa bersama..., mari kita membicarakan hari esok untuk masa depan (bersama)."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+</div>
+<!-- QUOTE END -->
