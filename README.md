@@ -20,18 +20,3 @@
 
 ---
 
-<!-- QUOTE START -->
-<div align="left">
-  📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika ada yang tertinggal, maka akan ada yang menariknya. Jika ada yang lelah, akan ada yang membantunya. Kita semua kadang kebingungan dan ragu. Tapi kita tetap maju. Jadi aku yakin, kita pasti bisa!"</em><br>
-  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
-</div>
-<!-- QUOTE END -->
-<!-- QUOTE START -->
-<div align="left">
-  📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup itu tidak terlalu sulit, jadi jangan terlalu dipikirkan."</em><br>
-  — <strong>Chiyo Komiya</strong>, <em>Shounen Maid</em>
-</div>
-<!-- QUOTE END -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Id-Yuu&fontSize=20&fontAlignY=60&fontAlign=90)
