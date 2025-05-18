@@ -155,3 +155,10 @@ Aku mencintai Ryougi! Bahkan jika aku adalah tiruan, tapi hati ini nyata."</em><
   — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
+<!-- QUOTE START -->
+<div align="left">
+  📜 <strong>Quote of the Day</strong><br>
+  <em>"Kau bisa melakukannya, jika mencobanya."</em><br>
+  — <strong>Nagisa Shiota</strong>, <em>Ansatsu Kyoushitsu</em>
+</div>
+<!-- QUOTE END -->
