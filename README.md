@@ -26,3 +26,5 @@
   — <strong>Yotsuba Nakano</strong>, <em>Gotoubun no Hanayome</em>
 </div>
 <!-- QUOTE END -->
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Id-Yuu&fontSize=20&fontAlignY=60&fontAlign=90)
