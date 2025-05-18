@@ -148,3 +148,10 @@ Aku mencintai Ryougi! Bahkan jika aku adalah tiruan, tapi hati ini nyata."</em><
   — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
+<!-- QUOTE START -->
+<div align="left">
+  📜 <strong>Quote of the Day</strong><br>
+  <em>"Tak ada pengamat yang lebih terpercaya dari orang yang mencurigaimu."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
+</div>
+<!-- QUOTE END -->
