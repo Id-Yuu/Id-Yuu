@@ -52,6 +52,6 @@ jobs:
         run: |
           git config --global user.name 'Id-Yuu'
           git config --global user.email 'how.we.do.9815@gmail.com'
-          git add README.md quotes.json   # Ensure all files, including quotes.json, are staged
+          git add README.md
           git commit -m "update: changes anime quote ($(TZ='Asia/Jakarta' date '+%Y-%m-%d %H:%M:%S WIB'))"
           git push
