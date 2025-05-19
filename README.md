@@ -17,14 +17,6 @@
   <dd>-> Bun, VScode, firebase, gh-pages, figma and, <em>My mood for learning</em>.</dd>
 </dl>
 
-
 ---
-<!-- QUOTE START -->
-<div align="left">
-  📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu harus berterima kasih kepada orang yang mengembalikan barangmu."</em><br>
-  — <strong>Yotsuba Nakano</strong>, <em>Gotoubun no Hanayome</em>
-</div>
-<!-- QUOTE END -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Id-Yuu&fontSize=20&fontAlignY=60&fontAlign=90)
