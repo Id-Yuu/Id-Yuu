@@ -35,6 +35,7 @@ jobs:
 
           # Tambahkan blok quote di bagian akhir
           echo "" >> new_readme.md
+          echo '![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Id-Yuu&fontSize=20&fontAlignY=60&fontAlign=90)' >> new_readme.md
           echo "<!-- QUOTE START -->" >> new_readme.md
           echo "<div align=\"center\">" >> new_readme.md
           echo "  📜 <strong>Quote of the Day</strong><br>" >> new_readme.md
