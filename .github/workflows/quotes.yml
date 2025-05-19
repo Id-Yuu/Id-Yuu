@@ -1,0 +1,57 @@
+name: Anime Quote
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch Random Anime Quote
+        run: |
+          # Fetch all quotes
+          curl -s https://cabrata.github.io/quotesnime-database/quotes.json -o quotes.json
+
+          # Ambil random index
+          COUNT=$(jq length quotes.json)
+          INDEX=$((RANDOM % COUNT))
+
+          # Ambil field dari quote terpilih
+          CHAR=$(jq -r ".[$INDEX].character" quotes.json)
+          ANIME=$(jq -r ".[$INDEX].anime" quotes.json)
+          QUOTE=$(jq -r ".[$INDEX].quotes" quotes.json)
+
+          # Tambahkan sisa README
+          awk '/<!-- QUOTE START -->/ {found=1; next} found' README.md >> new_readme.md
+
+          # Sisipkan quote
+          echo "<!-- QUOTE START -->" >> new_readme.md
+          echo "<div align=\"left\">" >> new_readme.md
+          echo "  📜 <strong>Quote of the Day</strong><br>" >> new_readme.md
+          echo "  <em>\"$QUOTE\"</em><br>" >> new_readme.md
+          echo "  — <strong>$CHAR</strong>, <em>$ANIME</em>" >> new_readme.md
+          echo "</div>" >> new_readme.md
+          echo "<!-- QUOTE END -->" >> new_readme.md
+
+          # Simpan bagian AKHIR README
+          awk '/<!-- QUOTE END -->/ {exit} {print}' README.md > new_readme.md
+
+          # Ganti README lama
+          mv new_readme.md README.md
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'Id-Yuu'
+          git config --global user.email 'how.we.do.9815@gmail.com'
+          git add README.md
+          git commit -m "update: changes anime quote ($(TZ='Asia/Jakarta' date '+%Y-%m-%d %H:%M:%S WIB'))"
+          git push
