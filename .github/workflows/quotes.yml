@@ -30,20 +30,18 @@ jobs:
           ANIME=$(jq -r ".[$INDEX].anime" quotes.json)
           QUOTE=$(jq -r ".[$INDEX].quotes" quotes.json)
 
-          # Tambahkan sisa README
-          awk '/<!-- QUOTE START -->/ {found=1; next} found' README.md >> new_readme.md
+          # Salin seluruh isi README.md ke new_readme.md
+          cat README.md > new_readme.md
 
-          # Sisipkan quote
+          # Tambahkan blok quote di bagian akhir
+          echo "" >> new_readme.md
           echo "<!-- QUOTE START -->" >> new_readme.md
-          echo "<div align=\"left\">" >> new_readme.md
+          echo "<div align=\"center\">" >> new_readme.md
           echo "  📜 <strong>Quote of the Day</strong><br>" >> new_readme.md
           echo "  <em>\"$QUOTE\"</em><br>" >> new_readme.md
           echo "  — <strong>$CHAR</strong>, <em>$ANIME</em>" >> new_readme.md
           echo "</div>" >> new_readme.md
           echo "<!-- QUOTE END -->" >> new_readme.md
-
-          # Simpan bagian AKHIR README
-          awk '/<!-- QUOTE END -->/ {exit} {print}' README.md > new_readme.md
 
           # Ganti README lama
           mv new_readme.md README.md
