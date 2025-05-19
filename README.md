@@ -183,3 +183,10 @@ Aku mencintai Ryougi! Bahkan jika aku adalah tiruan, tapi hati ini nyata."</em><
   — <strong>Cattleya Baudelaire</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
+<!-- QUOTE START -->
+<div align="left">
+  📜 <strong>Quote of the Day</strong><br>
+  <em>"Entah itu orang suci ataupun pendosa, semua orang punya hak untuk menegakkan keadilan mereka. Menolak keadilan mereka dan membunuhnya adalah hal tabu bagiku."</em><br>
+  — <strong>Brad Blackstone</strong>, <em>Taboo Tattoo</em>
+</div>
+<!-- QUOTE END -->
