@@ -2,7 +2,7 @@ name: Update Anime Quote
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 2 * * *"
   workflow_dispatch:
 
 permissions:
@@ -30,23 +30,17 @@ jobs:
           ANIME=$(jq -r ".[$INDEX].anime" quotes.json)
           QUOTE=$(jq -r ".[$INDEX].quotes" quotes.json)
 
-          # Extract all content except the footer
-          awk '/<!-- FOOTER START -->/ {exit} {print}' README.md > new_readme.md
+          # Compose the new quote block
+          QUOTE_BLOCK="<!-- QUOTE START -->
+<div align=\"left\">
+  📜 <strong>Quote of the Day</strong><br>
+  <em>\"$QUOTE\"</em><br>
+  — <strong>$CHAR</strong>, <em>$ANIME</em>
+</div>
+<!-- QUOTE END -->"
 
-          # Insert the quote before the footer
-          echo "<!-- QUOTE START -->" >> new_readme.md
-          echo "<div align=\"left\">" >> new_readme.md
-          echo "  📜 <strong>Quote of the Day</strong><br>" >> new_readme.md
-          echo "  <em>\"$QUOTE\"</em><br>" >> new_readme.md
-          echo "  — <strong>$CHAR</strong>, <em>$ANIME</em>" >> new_readme.md
-          echo "</div>" >> new_readme.md
-          echo "<!-- QUOTE END -->" >> new_readme.md
-
-          # Append the footer
-          awk '/<!-- FOOTER START -->/ {found=1; print} found' README.md >> new_readme.md
-
-          # Replace old README
-          mv new_readme.md README.md
+          # Replace the quote section in README.md
+          sed -i "/<!-- QUOTE START -->/,/<!-- QUOTE END -->/c\\$QUOTE_BLOCK" README.md
 
       - name: Commit and Push
         run: |
