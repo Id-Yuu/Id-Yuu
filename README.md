@@ -13,8 +13,10 @@
   <dt>Utils :</dt>
   <dd>-> Styled Components, TailwindCSS, SASS, DaisyUI, Flowbite, ChakraUI, Bootstrap</dd>
   
-  <dt>Tools :</dt>
-  <dd>-> Bun, VScode, firebase, gh-pages, figma and, <em>My mood for learning</em>.</dd>
+  <dt>Other :</dt>
+  <dd>-> Bun, VScode, firebase, gh-pages, figma, Blogger and, <em>My mood for learning</em>.</dd>
+
+  
 </dl>
 
 ---
