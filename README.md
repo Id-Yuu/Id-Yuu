@@ -20,7 +20,7 @@
 </dl>
 
 ---
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Id-Yuu.TikViews)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Id-Yuu)
 [![Github](https://img.shields.io/github/followers/Id-Yuu?label=Follow&style=social)](https://github.com/Id-Yuu)
 
 
