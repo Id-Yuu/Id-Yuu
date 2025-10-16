@@ -20,5 +20,8 @@
 </dl>
 
 ---
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Id-Yuu.TikViews)
+[![Github](https://img.shields.io/github/followers/Id-Yuu?label=Follow&style=social)](https://github.com/Id-Yuu)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Id-Yuu&fontSize=20&fontAlignY=60&fontAlign=90)
