@@ -20,8 +20,5 @@
 </dl>
 
 ---
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Id-Yuu)
-![GitHub followers](https://img.shields.io/github/followers/id-yuu?style=flat)
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Id-Yuu&fontSize=20&fontAlignY=60&fontAlign=90)
